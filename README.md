@@ -2,8 +2,6 @@
 
 There is a huge opportunity of Machine Learning use cases to help community during this COVID-19 crisis. There are mutliple datasets are avilable and lots of work is going on the analysis of those dataset. In this repository I am trying to analyze COVID-19 research data and comeup with some useful insights. 
 
-Here is the blog post of this project:-https://medium.com/@sanchit.srijit/covid-19-research-data-analysis-and-insights-1d9b40386911?sk=8be1f6ee0d0ea62cc4d83039486394f9
-
 ## Installation
 
 No extra libraries needs to be installed as all the libraries used here comes up with the Anaconda distribution with Python3.6. All the libraries can refered in the notebook under import libraries section.
@@ -25,8 +23,6 @@ Fork the repository and contribute on other ideas to analyze for more ML use cas
 Currently the Dataset is used from Kaggle:-https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 But in future more dataset from multiple sources will be used, few sources are list below:-
-
-
 
 https://covidtracking.com/ :- This dataset has number of tests conducted in each US state at daily level. It contains positive/negative/pending/death along with the date and state code filed.
 
