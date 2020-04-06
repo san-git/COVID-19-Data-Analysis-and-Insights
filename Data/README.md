@@ -1,5 +1,6 @@
-#Datasets
+# Datasets
 COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA - Italian database with CT images of lungs.
+
 Coronavirus-Dataset: Dataset of COVID-19 in South Korea - South Korean dataset detailing virus spread routes.
 COVID-19 Open Research Dataset (CORD-19) - dataset with scholarly articles about COVID-19.
 European Centre for Disease Prevention and Control - geographic distribution of COVID-19 cases worldwide
